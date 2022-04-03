@@ -18,6 +18,8 @@ vue create tutorial
 
 Default [Vue 3]를 선택했어요.
 
+---
+
 ## 프로젝트 빌드
 
 ```bash
@@ -28,3 +30,5 @@ npm run serve
 localhost:8080에 접속해서 
 `Welcome to Yure Vue.js App` 메시지가 뜨면 
 정상적으로 Vue CLI가 설치됐고, 프로젝트가 생성된 것이라고 합니다.
+
+![프로젝트 development build 접속](images/2022-04-03-18-03-28.png)
