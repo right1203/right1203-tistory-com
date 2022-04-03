@@ -3,7 +3,7 @@ title: [Vue] #2 튜토리얼
 post: private
 tag:
 - Vue
-category: 기타
+category: JavaScript
 postId: 27
 ---
 
@@ -13,3 +13,4 @@ vue create tutorial
 ```
 
 ![](images/2022-04-03-16-51-01.png)
+
